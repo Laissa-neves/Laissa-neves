@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, sou a Laíssa 🙋
 
 💻 Desenvolvedor Full Stack | Especialista em SQL, JavaScript e Java
 
