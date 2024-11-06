@@ -1,6 +1,6 @@
 ## Hi there, sou a Laíssa 🙋
 
-💻 Desenvolvedor Full Stack | Especialista em SQL, JavaScript e Java
+💻 Desenvolvedor Full Stack | Especialista em SQL, React, JavaScript
 
 📈Sempre aprendendo e aprimorando habilidades para acompanhar as inovações do setor
 
