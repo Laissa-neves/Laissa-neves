@@ -1,10 +1,4 @@
-## Hi there, sou a Laíssa 🙋
-
-💻 Desenvolvedor Full Stack | Especialista em SQL, React, JavaScript
-
-📈Sempre aprendendo e aprimorando habilidades para acompanhar as inovações do setor
-
-<h2 align="left"> Hi there 👋 I am Laíssa Neves, developer full stack!</h2>
+## Hi there 👋 I am Laíssa Neves, developer Full Stack! 🙋💻
 
 📈Sempre aprendendo e aprimorando habilidades para acompanhar as inovações do setor
 
