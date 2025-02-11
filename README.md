@@ -1,6 +1,5 @@
 ## Hi there 👋 I am Laíssa Neves, developer Full Stack! 🙋💻
 
-📈Sempre aprendendo e aprimorando habilidades para acompanhar as inovações do setor
 
 ###
 
