@@ -1,4 +1,4 @@
-## Hi there 👋 I am Laíssa Neves, developer Full Stack! 🙋💻
+## Hi there 👋 I am developer Full Stack! 🙋💻
 
 
 ###
