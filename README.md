@@ -7,7 +7,7 @@ Nos últimos anos trabalhei com monitoramento de mídia e BI, varejo, fintech e 
 
 Meu foco é **front-end em React e React Native**, com back-end em **Node.js e .NET (CQRS, Clean Architecture)** e, mais recentemente, **IA aplicada a produto**: integração de modelos LLM, agentes de IA e automação de workflows.
 
-> A maior parte do que eu escrevo vive em repositórios privados de empresa. O que está público aqui são projetos pessoais e estudos.
+> A maior parte do que eu escrevo vive em repositórios privados de empresa.
 
 ###
 
